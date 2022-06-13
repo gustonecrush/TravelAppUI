@@ -60,7 +60,7 @@ const DetailScreen = ({route, navigation}) => {
         <TouchableOpacity
           onPress={() => alert('You have been booked! See You 👋🏻')}
           style={styles.containerBtn}>
-          <Text style={styles.textBtn}>Get Started</Text>
+          <Text style={styles.textBtn}>Book Now</Text>
         </TouchableOpacity>
       </View>
     </View>
